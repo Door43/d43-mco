@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mco:home|Door43 (mco)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mco|d43-mco repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mco/archive/master.zip|d43-mco.zip]]
+
+**Recent Changes**
+{{changes>ns = mco}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mco|Ethnologue data]]
+
